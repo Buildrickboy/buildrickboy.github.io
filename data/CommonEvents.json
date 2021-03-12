@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":125,"indent":0,"parameters":[0,0,500]},{"code":126,"indent":0,"parameters":[7,0,0,5]},{"code":126,"indent":0,"parameters":[10,0,0,5]},{"code":126,"indent":0,"parameters":[11,0,0,5]},{"code":134,"indent":0,"parameters":[0]},{"code":357,"indent":0,"parameters":["MessageWindowPopup","POPUP_WINDOW_SETTING","フキダシウィンドウ表示設定",{"windowPosition":"auto","skin":"Window_Message"}]},{"code":657,"indent":0,"parameters":["ウィンドウ位置 = auto"]},{"code":657,"indent":0,"parameters":["ウィンドウスキン = Window_Message"]},{"code":0,"indent":0,"parameters":[]}],"name":"SETUP: Initial parameters","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
